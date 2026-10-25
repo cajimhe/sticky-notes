@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+exercise.txt
+.agents/
+.codex/
+skills-lock.json
+.env
+.env.*
